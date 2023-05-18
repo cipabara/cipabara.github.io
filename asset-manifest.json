@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.10dca3cd.chunk.css",
-    "main.js": "/static/js/main.768ab384.chunk.js",
-    "main.js.map": "/static/js/main.768ab384.chunk.js.map",
+    "main.css": "/static/css/main.f453d95c.chunk.css",
+    "main.js": "/static/js/main.46e06cdc.chunk.js",
+    "main.js.map": "/static/js/main.46e06cdc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.18abe12b.js",
     "runtime-main.js.map": "/static/js/runtime-main.18abe12b.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
@@ -12,12 +12,11 @@
     "static/js/3.ac9e2905.chunk.js.map": "/static/js/3.ac9e2905.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.10dca3cd.chunk.css.map": "/static/css/main.10dca3cd.chunk.css.map",
+    "static/css/main.f453d95c.chunk.css.map": "/static/css/main.f453d95c.chunk.css.map",
     "static/js/2.4bedab11.chunk.js.LICENSE.txt": "/static/js/2.4bedab11.chunk.js.LICENSE.txt",
     "static/media/CloseIcon.e01e9a6b.svg": "/static/media/CloseIcon.e01e9a6b.svg",
     "static/media/FairFace_Whitepaper.496a33d1.pdf": "/static/media/FairFace_Whitepaper.496a33d1.pdf",
     "static/media/amico.dfd94ea4.png": "/static/media/amico.dfd94ea4.png",
-    "static/media/bg3.5b13266d.jpg": "/static/media/bg3.5b13266d.jpg",
     "static/media/contactus.f5a282c8.png": "/static/media/contactus.f5a282c8.png",
     "static/media/cuate.11649dab.png": "/static/media/cuate.11649dab.png",
     "static/media/fafroadmap.34d32565.png": "/static/media/fafroadmap.34d32565.png",
@@ -26,6 +25,7 @@
     "static/media/ic.020b8666.png": "/static/media/ic.020b8666.png",
     "static/media/ic2.6caa3984.png": "/static/media/ic2.6caa3984.png",
     "static/media/ic3.886f2712.png": "/static/media/ic3.886f2712.png",
+    "static/media/logo.dc5d67f7.gif": "/static/media/logo.dc5d67f7.gif",
     "static/media/mail.4584ecd9.png": "/static/media/mail.4584ecd9.png",
     "static/media/one.480fd4fd.png": "/static/media/one.480fd4fd.png",
     "static/media/team 2.56231335.jpg": "/static/media/team 2.56231335.jpg",
@@ -40,7 +40,7 @@
     "static/js/runtime-main.18abe12b.js",
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.4bedab11.chunk.js",
-    "static/css/main.10dca3cd.chunk.css",
-    "static/js/main.768ab384.chunk.js"
+    "static/css/main.f453d95c.chunk.css",
+    "static/js/main.46e06cdc.chunk.js"
   ]
 }
