@@ -1,19 +1,19 @@
 {
-  "short_name": "DEX",
-  "name": "DEX",
+  "short_name": "CPI",
+  "name": "CAPIBARA",
   "icons": [
     {
-      "src": "ls2.png",
+      "src": "logo11.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "ls2.png",
+      "src": "logo11.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "ls2.png",
+      "src": "logo11.png",
       "type": "image/png",
       "sizes": "512x512"
     }
